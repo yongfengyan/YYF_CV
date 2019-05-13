@@ -1,6 +1,7 @@
 # 闫永锋
 
-## 21岁 | 应届生 | 18250178820 | yanyongfeng2@gmail 
+## 21岁 | 应届生 | 18250178820 | 664033561@qq.com 
+   微信:15511088803  QQ:664033561
 
 ## 意向 ： 后端开发 | 产品经理 | 算法开发 
 
@@ -41,10 +42,10 @@
 ### ApacheCN开源社区
 **2018.6 - 2018.10**      		 **参与者**
 
-与开源项目，在其中文社区翻译英文原版文档 Data Structures (Into Java）中
+> 参与开源项目，在其中文社区翻译英文原版文档 Data Structures (Into Java）中
 有关树搜索的章节（二叉树BST，四叉树，博弈树）。
 
-github：[Search Trees](https://github.com/apachecn/cs61b-textbook-zh/blob/master/zh/6.md)
+> github：[Search Trees](https://github.com/apachecn/cs61b-textbook-zh/blob/master/zh/6.md)
 
 ## 荣获奖项
 
@@ -62,3 +63,5 @@ github：[Search Trees](https://github.com/apachecn/cs61b-textbook-zh/blob/maste
 *PS： 对于机器学习与算法开发有浓厚兴趣，且并不满足于通过调包跑通demo的实验，对于程序背后的
 原理与思想有着好奇的渴望，对于相关知识有初步了解，如有机会，希望自己凭借对代码实现比较熟练的优势
 可以去尝试与算法开发有关岗位*
+
+
